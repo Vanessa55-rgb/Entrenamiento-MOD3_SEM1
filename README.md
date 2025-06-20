@@ -26,15 +26,21 @@ Proyecto interactivo hecho con HTML, CSS y JavaScript que solicita el nombre y l
 ## 🛠️ Tecnologías
 
 - HTML5
-- CSS3 (con diseño base común para futuros proyectos)
-- JavaScript Vanilla
+- CSS
+- JavaScript 
+
+## 🚀 Cómo ver el proyecto
+
+Puedes ver el proyecto desplegado en **GitHub Pages** aquí:
+
+👉 [Ver Demo](https://vanessa55-rgb.github.io/Entrenamiento-MOD3_SEM1/)
 
 ## 🚀 Cómo usarlo
 
 Puedes ver el proyecto ejecutándolo localmente:
 
 1. Descarga o clona este repositorio.
-👉 [Clona](https://github.com/Vanessa55-rgb/Juego-La-Superficie.git)
+👉 [Clona](https://github.com/Vanessa55-rgb/Entrenamiento-MOD3_SEM1.git)
 2. Abre el archivo `index.html` en tu navegador.
 3. Haz clic en el botón "Iniciar sistema".
 4. Completa los prompts de nombre y edad.
