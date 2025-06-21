@@ -48,4 +48,4 @@ Puedes ver el proyecto ejecutándolo localmente:
 
 ## 👨‍💻 Autor
 
-Vanessa Gomez Lopez
+**Vanessa Gomez Lopez**
